@@ -46,3 +46,6 @@
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>click&nbsp;<a href="https://farmergamer2437.github.io/Hub2/">here to get back to the index</a>.</p>
